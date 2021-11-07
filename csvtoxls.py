@@ -1,4 +1,5 @@
 #input CSV file:
+#need to install pandas, pandastable,tkintertable modules
 
 import pandas as pd
 from tkinter import *
